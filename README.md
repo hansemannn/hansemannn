@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Hans Knöchel and I'm the Co-Founder and CEO of Lambus, a collaborative travel platform. You can find more information on Lambus [here](http://lambus.io/?ref=github)!
+My name is Hans Knöchel and I'm the Co-Founder and CEO of Lambus, a collaborative travel platform. You can find more information on Lambus [here](http://www.lambus.com/?ref=github)!
 
 ### Open Source
 
