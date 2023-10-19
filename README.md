@@ -6,7 +6,7 @@ My name is Hans Knöchel and I'm the Co-Founder and CEO of Lambus, a collaborati
 
 ### Open Source
 
-I spend some of my time in open source projects (roughly since 2014), primarily on iOS related projects as well as the [Appcelerator Titanium](https://www.appcelerator.com/) ecosystem (acquired by Axway in 2016).
+I spend some of my time in open source projects (roughly since 2014), primarily on iOS related projects as well as the [Titanium](https://tidev.io/) ecosystem (formerly `Appcelerator`, acquired by Axway in 2016).
 
 ### Sponsorship
 
